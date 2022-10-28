@@ -1,0 +1,6 @@
+C:\Users\Prachi\source\repos\Auth1\Auth1\obj\Debug\netcoreapp3.1\Auth1.csproj.AssemblyReference.cache
+C:\Users\Prachi\source\repos\Auth1\Auth1\obj\Debug\netcoreapp3.1\Auth1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prachi\source\repos\Auth1\Auth1\obj\Debug\netcoreapp3.1\Auth1.AssemblyInfoInputs.cache
+C:\Users\Prachi\source\repos\Auth1\Auth1\obj\Debug\netcoreapp3.1\Auth1.AssemblyInfo.cs
+C:\Users\Prachi\source\repos\Auth1\Auth1\obj\Debug\netcoreapp3.1\Auth1.csproj.CoreCompileInputs.cache
+C:\Users\Prachi\source\repos\Auth1\Auth1\obj\Debug\netcoreapp3.1\Auth1.MvcApplicationPartsAssemblyInfo.cache
